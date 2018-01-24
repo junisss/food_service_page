@@ -1,0 +1,39 @@
+/* First section : A - header (logo, menu) */
+.container {
+    margin-left: 11%;
+    margin-right: 11%;
+}
+
+#kolumnaZLogo {
+}
+
+#kolumnaZMenu {
+    margin-left: 50%;
+}
+
+li a {
+    text-transform: uppercase;
+}
+
+/* First section : B - freshLife */
+
+
+/* Second section : aboutUs */
+
+
+/* Third section : ourServices */
+
+
+/* Forth section : gallery */
+
+
+/* Fifth section : subscribe */
+
+
+/* Sixth section : blog */
+
+
+/* Seventh section : - contact */
+
+
+/* Last section : footer */
