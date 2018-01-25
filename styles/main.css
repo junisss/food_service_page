@@ -4,10 +4,10 @@
     margin-right: 11%;
 }
 
-#kolumnaZLogo {
+#columnWithLogo {
 }
 
-#kolumnaZMenu {
+#columnWithMenu {
     margin-left: 50%;
 }
 
@@ -28,7 +28,9 @@ li a {
 
 
 /* Fifth section : subscribe */
-
+#blueberry {
+    width: 50%;
+}
 
 /* Sixth section : blog */
 
